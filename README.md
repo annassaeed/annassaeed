@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f05e229f-c85d-412f-8670-a6469bf133c2" />
+  <img src="https://github.com/user-attachments/assets/f05e229f-c85d-412f-8670-a6469bf133c2"
 </p>
 
 <h3 align="center">LAMP Stack Developer | Web & WordPress Developer | Frontend (HTML, CSS, JS, React)</h3>
