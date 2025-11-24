@@ -30,14 +30,6 @@ I'm a passionate **LAMP Stack Developer** and **Web/WordPress Developer** skille
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/annas-saeed-505895279 
